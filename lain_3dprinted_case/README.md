@@ -67,3 +67,7 @@ https://github.com/hsgw/qmk_firmware/tree/lain
 ```sh
 make dm9records/lain/rev1:default
 ```
+
+### 書き込み方法
+Pro Microを使ったものと同様に書き込みを行います。   
+基板上の書き込みボタンを押すか、RESETキーコードの割り振られたスイッチを押すことでブートローダモードになります。   
