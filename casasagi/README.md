@@ -55,6 +55,7 @@ USBケーブルを接続してlainキーボードとして認識されるかど�
 
 ## ファームウェア
 こちらのリポジトリにあります
+
 https://github.com/hsgw/qmk_firmware/tree/casasagi
 https://github.com/hsgw/qmk_firmware/tree/casasagi/keyboards/casasagi
 
