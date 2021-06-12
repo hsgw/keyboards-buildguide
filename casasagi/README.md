@@ -21,7 +21,9 @@ Casasagi Oリングマウントケースキット
 - 3.5mm TRS(3極)ケーブル
 - (実装するなら) SK6812MINI-E * 56
 
-## 動作確認
+## 回路図
+https://github.com/Self-Made-Keyboards-in-Japan/Casasagi
+
 ## 組み立て前の動作確認
 [default](https://github.com/hsgw/qmk_firmware/tree/casasagi/keyboards/casasagi/keymaps/default)ファームウェアが書き込まれています。   
 USBケーブルを接続してlainキーボードとして認識されるかどうか確認して下さい。　　　
